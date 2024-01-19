@@ -1,0 +1,7 @@
+C:\Users\maria\Documents\program uni\set3\pb3\bin\Debug\pb3.exe.config
+C:\Users\maria\Documents\program uni\set3\pb3\bin\Debug\pb3.exe
+C:\Users\maria\Documents\program uni\set3\pb3\bin\Debug\pb3.pdb
+C:\Users\maria\Documents\program uni\set3\pb3\obj\Debug\pb3.csproj.AssemblyReference.cache
+C:\Users\maria\Documents\program uni\set3\pb3\obj\Debug\pb3.csproj.CoreCompileInputs.cache
+C:\Users\maria\Documents\program uni\set3\pb3\obj\Debug\pb3.exe
+C:\Users\maria\Documents\program uni\set3\pb3\obj\Debug\pb3.pdb
